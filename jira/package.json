@@ -1,0 +1,14 @@
+{
+  "name": "malware-1hr",
+  "version": "1.0.0",
+  "description": "Runs every hour and creates a jira issue if a malware event is detected in the tCell cloud. Use the config file for auth tokens and credentials",
+  "main": "malware-1hr.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "wesley@tcell.io",
+  "license": "",
+  "devDependencies": {
+    "request": "^2.83.0"
+  }
+}
