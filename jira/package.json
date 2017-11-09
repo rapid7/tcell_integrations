@@ -8,10 +8,7 @@
   },
   "author": "wesley@tcell.io",
   "license": "",
-  "devDependencies": {
-    "request": "^2.83.0"
-  },
   "dependencies": {
-    "pkg": "^4.3.0-beta.1"
+    "request": "^2.83.0"
   }
 }
