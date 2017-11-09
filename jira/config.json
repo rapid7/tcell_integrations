@@ -1,6 +1,6 @@
 {
   "tcell_app_id": "your app ID is listed in the tcell console",
-  "tcell_auth": "follow these instructions to generate an api key",
+  "tcell_auth": "follow these instructions to generate an api key https://docs.tcell.io/v1.0/reference",
   "jira_url": "url http://jira.foo.com or http://jira.foo.com:8080",
   "jira_auth": "your jira username and password seperated by a comma e.g. username:password",
   "jira_project_key": "your jira project key"
