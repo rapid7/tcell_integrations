@@ -1,6 +1,6 @@
 {
   "name": "malware-event-monitor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Runs every hour and creates a jira issue if a malware event is detected in the tCell cloud. Use the config file for auth tokens and credentials",
   "main": "malware-event-monitor.js",
   "bin": {
